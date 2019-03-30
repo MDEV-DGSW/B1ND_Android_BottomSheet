@@ -1,0 +1,2 @@
+include ':lib', ':sample'
+rootProject.name='B1ND_Android_BottomSheet'
