@@ -25,11 +25,11 @@ android {
 
 ext {
     bintrayRepo = 'maven'
-    bintrayName = 'B1NDBottomSheet'
+    bintrayName = 'B1ND_Android_BottomSheet'
 
-    publishedGroupId = 'kr.hs.dgsw.b1nd.bottomsheet'
-    libraryName = 'B1NDBottomSheet'
-    artifact = 'b1ndbottomsheet'
+    publishedGroupId = 'kr.hs.dgsw.b1nd'
+    libraryName = 'B1ND_Android_BottomSheet'
+    artifact = 'bottomsheet'
 
     libraryDescription = 'BottomSheet for B1ND Apps'
 
