@@ -1,5 +1,5 @@
 # B1ND_Android_BottomSheet
-[ ![Download](https://api.bintray.com/packages/mdev-dgsw/maven/B1ND_Android_BottomSheet/images/download.svg) ](https://bintray.com/kimji/mdev-dgsw/B1ND_Android_BottomSheet/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/mdev-dgsw/maven/B1ND_Android_BottomSheet/images/download.svg) ](https://bintray.com/mdev-dgsw/B1ND_Android_BottomSheet/_latestVersion)
 
 ### Usage
 
@@ -8,8 +8,8 @@ On your build.gradle, add the library to the dependencies section
 android {
   // ...
   compileOptions {
-    sourceCompatibility = '1.8'
-    targetCompatibility = '1.8'
+    sourceCompatibility = '1.8' // or JavaVersion.VERSION_1_8
+    targetCompatibility = '1.8' // or JavaVersion.VERSION_1_8
   }
   // ...  
 }
